@@ -7,7 +7,7 @@ This script is designed to help you **mass-create multiple folders** on Google D
 Follow the steps below to set up and use the script:
 
 1. **Create Your Directory Structure**  
-   - Open a new Google Spreadsheet and define your desired directory structure. Each row can represent a folder or subfolder in your hierarchy.
+   - Open a new Google Spreadsheet and define your desired directory structure. Each row can represent a folder or subfolder in your hierarchy. Refer to Sample Spreadsheet.pdf for more info.
 
 2. **Launch Google Apps Script**  
    - Click on `Extensions` in the Google Sheets menu, then select `Apps Script` to open the script editor.
