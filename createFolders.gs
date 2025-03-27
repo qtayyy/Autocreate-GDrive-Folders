@@ -37,7 +37,7 @@ function createFolders()
 	var sheet = ss.getSheetByName("Sheet2");
 	if (!sheet)
 	{
-		Logger.log("Sheet 'Sheet1' not found! Terminating program");
+		Logger.log("Sheet specified not found! Terminating program");
 		return;
 	}
 
